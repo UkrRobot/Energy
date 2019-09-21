@@ -1,2 +1,2 @@
 # Energy
-calculator of energy in the alloy
+Calculator of energy in the alloy
